@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello world</text>
+<button size="mini">按钮</button>
+   <input class="weui-input" type="idcard" placeholder="身份证输入键盘" />
